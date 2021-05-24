@@ -23,7 +23,7 @@ email: cj.godwin@wowway.com
 description: >- # this means to ignore newlines until "baseurl:"
   I am learning a static site
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://example.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: things
 github_username:  ClarkG77
 
